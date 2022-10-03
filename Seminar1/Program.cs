@@ -21,7 +21,7 @@ else
 Console.Write("Input a number: ");
 int number = Convert.ToInt32(Console.ReadLine());
 
-int current = -number;
+int current;
 
 if(number > 0)
 {
@@ -29,7 +29,8 @@ if(number > 0)
 }
 else
 {
-    current *= -1;
+    current = number;
+    number *= -1;
 }
 
 while(current <= number)
@@ -42,10 +43,10 @@ while(current <= number)
 
 //Задача 3. Напишите программу, которая принимает на вход трёхзначное число и на выходе показывает последнюю цифру этого числа.
 
-Console.Write("Input three-digit number")
+Console.Write("Input three-digit number ");
 int n = Convert.ToInt32(Console.ReadLine());
 
-if(n >= 100  0)
+if(n >= 100 && n < 1000)
 {
     int lastDigit = n % 10;
     Console.WriteLine($"Last digit of {n} is {lastDigit}");
@@ -54,3 +55,4 @@ else
 {
     Console.WriteLine("Uncorrent input");
 }
+
