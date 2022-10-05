@@ -1,0 +1,15 @@
+/Users/aleksejursaev/Знакомство с языками программирования /Seminars/Seminar2/obj/Debug/net6.0/Seminar2.csproj.AssemblyReference.cache
+/Users/aleksejursaev/Знакомство с языками программирования /Seminars/Seminar2/obj/Debug/net6.0/Seminar2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksejursaev/Знакомство с языками программирования /Seminars/Seminar2/obj/Debug/net6.0/Seminar2.AssemblyInfoInputs.cache
+/Users/aleksejursaev/Знакомство с языками программирования /Seminars/Seminar2/obj/Debug/net6.0/Seminar2.AssemblyInfo.cs
+/Users/aleksejursaev/Знакомство с языками программирования /Seminars/Seminar2/obj/Debug/net6.0/Seminar2.csproj.CoreCompileInputs.cache
+/Users/aleksejursaev/Знакомство с языками программирования /Seminars/Seminar2/bin/Debug/net6.0/Seminar2
+/Users/aleksejursaev/Знакомство с языками программирования /Seminars/Seminar2/bin/Debug/net6.0/Seminar2.deps.json
+/Users/aleksejursaev/Знакомство с языками программирования /Seminars/Seminar2/bin/Debug/net6.0/Seminar2.runtimeconfig.json
+/Users/aleksejursaev/Знакомство с языками программирования /Seminars/Seminar2/bin/Debug/net6.0/Seminar2.dll
+/Users/aleksejursaev/Знакомство с языками программирования /Seminars/Seminar2/bin/Debug/net6.0/Seminar2.pdb
+/Users/aleksejursaev/Знакомство с языками программирования /Seminars/Seminar2/obj/Debug/net6.0/Seminar2.dll
+/Users/aleksejursaev/Знакомство с языками программирования /Seminars/Seminar2/obj/Debug/net6.0/refint/Seminar2.dll
+/Users/aleksejursaev/Знакомство с языками программирования /Seminars/Seminar2/obj/Debug/net6.0/Seminar2.pdb
+/Users/aleksejursaev/Знакомство с языками программирования /Seminars/Seminar2/obj/Debug/net6.0/Seminar2.genruntimeconfig.cache
+/Users/aleksejursaev/Знакомство с языками программирования /Seminars/Seminar2/obj/Debug/net6.0/ref/Seminar2.dll
