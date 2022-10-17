@@ -40,7 +40,7 @@ Console.WriteLine(CountEvenNumber(myArray));
 /*
 Console.Write("Input size: ");
 int size = Convert.ToInt32(Console.ReadLine());
-int minValue = 100;
+int minValue = -999;
 int maxValue = 999;
 int[] myArray = CreateRandomeArray(size, minValue, maxValue);
 ShowArray(myArray);
@@ -49,7 +49,10 @@ int SumOddNumbers(int[] myArray)
 {
     int sum = 0;
     for(int i = 0; i < size; i++)
+    {
         if(myArray[i] % 2 == 1) sum += myArray[i];
+        if(myArray[i] % 2 == -1) sum += myArray[i];
+    }
     return sum;
 }
 Console.WriteLine(SumOddNumbers(myArray));
