@@ -1,0 +1,15 @@
+/Users/aleksejursaev/Знакомство с языками программирования /Seminars/HomeWork8/bin/Debug/net6.0/HomeWork8
+/Users/aleksejursaev/Знакомство с языками программирования /Seminars/HomeWork8/bin/Debug/net6.0/HomeWork8.deps.json
+/Users/aleksejursaev/Знакомство с языками программирования /Seminars/HomeWork8/bin/Debug/net6.0/HomeWork8.runtimeconfig.json
+/Users/aleksejursaev/Знакомство с языками программирования /Seminars/HomeWork8/bin/Debug/net6.0/HomeWork8.dll
+/Users/aleksejursaev/Знакомство с языками программирования /Seminars/HomeWork8/bin/Debug/net6.0/HomeWork8.pdb
+/Users/aleksejursaev/Знакомство с языками программирования /Seminars/HomeWork8/obj/Debug/net6.0/HomeWork8.csproj.AssemblyReference.cache
+/Users/aleksejursaev/Знакомство с языками программирования /Seminars/HomeWork8/obj/Debug/net6.0/HomeWork8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksejursaev/Знакомство с языками программирования /Seminars/HomeWork8/obj/Debug/net6.0/HomeWork8.AssemblyInfoInputs.cache
+/Users/aleksejursaev/Знакомство с языками программирования /Seminars/HomeWork8/obj/Debug/net6.0/HomeWork8.AssemblyInfo.cs
+/Users/aleksejursaev/Знакомство с языками программирования /Seminars/HomeWork8/obj/Debug/net6.0/HomeWork8.csproj.CoreCompileInputs.cache
+/Users/aleksejursaev/Знакомство с языками программирования /Seminars/HomeWork8/obj/Debug/net6.0/HomeWork8.dll
+/Users/aleksejursaev/Знакомство с языками программирования /Seminars/HomeWork8/obj/Debug/net6.0/refint/HomeWork8.dll
+/Users/aleksejursaev/Знакомство с языками программирования /Seminars/HomeWork8/obj/Debug/net6.0/HomeWork8.pdb
+/Users/aleksejursaev/Знакомство с языками программирования /Seminars/HomeWork8/obj/Debug/net6.0/HomeWork8.genruntimeconfig.cache
+/Users/aleksejursaev/Знакомство с языками программирования /Seminars/HomeWork8/obj/Debug/net6.0/ref/HomeWork8.dll
